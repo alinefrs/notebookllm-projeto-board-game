@@ -3,7 +3,6 @@ Projeto de NotebookLLM que fornece uma visão detalhada do universo dos jogos de
 
 https://notebooklm.google.com/notebook/27456a0d-e066-4656-8275-8906c94cec2a
 
-
 ## Objetivo do Projeto
 Criar um sistema de IA que funcione como um guia sobre o universo de jogos de tabuleiro, capaz de:
 
@@ -23,5 +22,3 @@ Criar um sistema de IA que funcione como um guia sobre o universo de jogos de ta
 - Resumo textual: explicações organizadas em texto, reunindo os principais pontos de forma clara e objetiva.
 - Resumo em áudio: apresentação dinâmica do conteúdo, facilitando a compreensão e o consumo rápido das informações.
 - Vídeo: demonstrações visuais que sintetizam os temas trabalhados de forma mais interativa e didática.
-
-Para uma experiência mais detalhada acesse a documentação completa em: /demonstracao.
